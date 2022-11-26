@@ -7,9 +7,9 @@ multi-line
 comment
 */
 /* this is a multi-line comment on a single line */
+//example of a console.log:
 console.log("Hello " + "there " + "World");
-//string
-"Hello World"
+//string "Hello"
 //number 472
 /* arithmentic operators
  =, +, /, *, 
@@ -46,5 +46,5 @@ The addition assignment operator: +=
 
 The concatenation assignment operator: +=
 */
-"use strict";
-console.log(7 == 7);
+//"use strict";
+//console.log(7 == 7);
