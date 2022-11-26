@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Bio Page</title>
+    <link href="bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- container -->
+    <div class="container">
+        <div class="row">
+            <div id="Bio" class="col-12 col-lg-6 text-center">
+                <h1>Sarah</h1>
+                <img src="photo.jpg" class="img-fluid">
+            </div>
+            <div id="more" class="col-12 col-lg-6 text-center"></div>
+            <h2>Favorite Music Artists</h2>
+            <ul>
+                <li>Angels and Airwaves/li>
+                <li>Good Charlotte</li>
+                <li>Brand New</li>
+                <li>Jimmy Eat World</li>
+                <li>Death Cab for Cutie</li>
+                <!-- un-ordered list -->
+            </ul>
+            <h2>Favorite Films</h2>
+                <!-- ordered list -->
+            <ol>
+                <li>Benny and June</li>
+                <li>Waiting for Forever</li>
+                <li>Romeo and Juliet</li>
+                <li>Time Machine</li>
+                <li>Legend</li>
+            </ol>
+            <a href="https://www.facebook.com/profile.php?id=100086928387398" class="btn btn-primary">My Meta Profile</a>
+            </div>
+        </div>
+    </div>
+    <script src="bootstrap.bundle.min.js"></script>
+</body>
+</html>
