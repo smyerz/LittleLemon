@@ -1,21 +1,14 @@
-h1 {
-    color: azure;
-}
-h2 {
-    color: #592115;
-}
-h1 {
-    background-color: #E35D34;
-}
-p {
-    color: #BF5630;
-    background-color: #F2A172;
-}
-button {
-    color: #F2EBDF;
-    background-color: #736C56;
-}
 /*
 color pallets can be customized here!
 https://color.adobe.com/mythemes
 */
+h1 {
+    color: #F2EBDF;
+}
+h2 {
+    color: #F2A172;
+}
+button {
+    color: black;
+    background-color: #F2A172;
+}
