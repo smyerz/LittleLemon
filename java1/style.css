@@ -2,19 +2,18 @@ h1 {
     color: azure;
 }
 h2 {
-    color: #3FE25B;
+    color: #592115;
 }
 h1 {
     background-color: #E35D34;
 }
 p {
-    color: #D24BE3;
-}
-p {
-    background-color: #8C3996;
+    color: #BF5630;
+    background-color: #F2A172;
 }
 button {
-    background-color: #3FE25B;
+    color: #F2EBDF;
+    background-color: #736C56;
 }
 /*
 color pallets can be customized here!

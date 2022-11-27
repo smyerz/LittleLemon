@@ -11,21 +11,22 @@ comment
 console.log("Hello " + "there " + "World");
 //string "Hello"
 //number 472
-/* arithmentic operators
- =, +, /, *, 
+//FIRST TYPE
+/* arithmentic operators (Concatenate numbers and strings)
+ =, +, /, *,
+    example:
+        var now = "Now In "
+        var three = 3
+        var d = 'D!'
+        console.log(now + three + d);
+    answer: Now In 3D!
 comparison operators
 <, >, !=, ==, 
 logical operators
 and &&, example a>5 && a<10
 ! not
 || or
-*/
-/* Pet is hungry: true
-Feeding the pet
-Pet is hungry: false
-true
-*/
-/*
+//NEXT TYPE:
 Logical AND operator (ampersand &): && 
 Logical OR operator: || 
 Logical NOT operator: ! 
@@ -41,8 +42,13 @@ The strict equality operator: ===
 The inequality operator: !=
 The strict inequality operator: !==
         does not equal value or type
-The addition assignment operator: += 
-The concatenation assignment operator: +=
+The addition and concatenation assignment operator: += 
+        example:
+        var counter = 0
+        counter +=5
+        counter +=3
+        console.log(counter);
+    answer: 8
 */
 /* console.log example:
 "use strict";
