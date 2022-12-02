@@ -28,28 +28,3 @@ for (var i =10; i >0; i --){
     console.log(i)
 }
 console.log('Happy New Year')
-/*while loop
-(not self contained)
-*/
-while (i <4){
-    console.log(i);
-    i =i+1;
-}
-/*counter value set before the loop and clearly defined
-specify the exit condition 
-in the parentheses 
-of the loop declaration
-*/ 
-var counter =3
-
-while (counter >0) {
-    console.log(counter);
-    counter = counter -1;
-}
-console.log('Happy New Year')
-//years example
-var year = 2018;
-while (year < 2023) {
-    console.log(year);
-    year++;
-};

@@ -1,5 +1,5 @@
 //if else (if and then else if statements)
-var place = 'first';
+/*var place = 'first';
 
 if(place == 'first') {
     console.log('gold!')
@@ -22,3 +22,13 @@ if(age >= 65) {
 }else {
     console.log("The value of the age is not numerical")
 }
+*/
+var result = 50;
+
+if(result > 40){
+    console.log('you passed the test')
+} else{
+    console.log('you did not pass the test')
+}
+
+
