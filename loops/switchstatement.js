@@ -1,4 +1,21 @@
-//switch statement
+//switch statement switching state
+var day = 'Wednesday';
+
+    switch(day){
+        case 'Monday':
+            console.log('Do something');
+            break;
+        case 'Tuesday':
+            console.log('do something else')
+            break;
+        case 'Wednesday':
+            console.log('humpday')
+            break;
+        case 'Thursday':
+            console.log('almost friday')
+            break;
+    }
+//example switch place
 var place = 'first';
 
 switch(place) {
@@ -14,17 +31,3 @@ switch(place) {
     default:
         console.log("sorry, you'll get it next time!")
 }
-/*for loop (self contained)
-set the value: var i=0; 
-specify the condition: i<3; 
-increment the counter: i++;
-This code repeats 4 times. count 0,1,2,3,4*/
-for (var i =1; i <3; i ++){
-    console.log(i);
-}
-console.log('Go')
-//The encrementor specifies with value terminates the loop
-for (var i =10; i >0; i --){
-    console.log(i)
-}
-console.log('Happy New Year')

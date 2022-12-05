@@ -1,5 +1,5 @@
 //if else (if and then else if statements)
-/*var place = 'first';
+var place = 'first';
 
 if(place == 'first') {
     console.log('gold!')
@@ -11,7 +11,7 @@ if(place == 'first') {
     console.log('sorry')
 }
 //example2
-var age = 65
+var age = 65;
 
 if(age >= 65) {
     console.log("You get income from your pension")
@@ -22,7 +22,7 @@ if(age >= 65) {
 }else {
     console.log("The value of the age is not numerical")
 }
-*/
+//example3
 var result = 50;
 
 if(result > 40){

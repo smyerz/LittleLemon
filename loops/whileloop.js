@@ -2,6 +2,7 @@
 /*while loop will keep looping until the condition returns true
 (not self contained)
 */
+var i =3
 while (i <4){
     console.log(i);
     i =i+1;
