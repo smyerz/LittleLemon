@@ -7,11 +7,15 @@ for (var i =1; i <4; i ++){
     console.log(i);
 }
 console.log('Go')
-/*The encrementor specifies with value terminates the loop
+/*The encrementor specifies witch value terminates the loop
  (i is used in common practice, stands for idiom: is a group of code fragments 
     sharing an equivalent semantic role/ idioms. : an expression in the usage of a language
      that is peculiar to itself either in having a meaning that cannot be derived 
-     from the conjoined meanings of its elements)*/
+     from the conjoined meanings of its elements)
+      for loop needs the starting loop counter value as a temporary variable i 
+      the exit condition (the maximum value of the loop counter variable i,
+         above which the loop no longer runs) 
+          how to update the value of i after each loop*/
 for (var i =10; i >0; i --){
     console.log(i)
 }
