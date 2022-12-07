@@ -1,15 +1,17 @@
 /*function decloration (does not execute the code)
  DRY:DoNotRepeatYourself
  no defined perameters (function definition)*/
-function functionName(){ 
-/*fixed values inside the body of the function (setting a and b as variables)
+function anyFunctionName(){ }
+/*fixed values inside the body of the function
+(setting a and b as variables)
 var have limitations set values do not change*/
     var a =10;
     var b =20; 
     var c =a+b; 
     console.log(c);
-}
-/*set peramiters by passing value to the function making it more flexable (cleaner code)
+
+/*set peramiters by passing value to the function making it 
+more flexable (cleaner code)
 setting a and b as perameters
 values passed to the function are called arguments*/
 function functionName(a,b){
